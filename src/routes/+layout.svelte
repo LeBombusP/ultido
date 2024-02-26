@@ -1,9 +1,9 @@
 <script>
-  import "../app.css";
+	import '../app.css';
 </script>
 
 <svelte:head>
-  <title>Ultido</title>
+	<title>UltiDo</title>
 </svelte:head>
 
 <slot />

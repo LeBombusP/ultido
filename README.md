@@ -9,13 +9,13 @@ Our app provides the best user experience, while ensuring safety. It allows you 
 
 ## Development
 
-clone repo, download dependencies
+Clone repo, download dependencies
 
 ```bash
 git clone https://github.com/lebomusp/ultido && cd ultido && bun i
 ```
 
-start dev server
+Start dev server
 
 ```bash
 bun dev
