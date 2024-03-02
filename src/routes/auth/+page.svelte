@@ -1,0 +1,1 @@
+<h1 class="font-bold text-2xl">Auth Page <span class="icon-[tabler--key]" /></h1>
