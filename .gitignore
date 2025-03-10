@@ -1,12 +1,19 @@
 # deps
 node_modules/
 
+# env
 .env
 .env.*
 !.env.example
 
-.database
+# db
 .drizzle
 
+# ide
 .vscode
 .idea
+
+# React Router
+.react-router
+.DS_Store
+build

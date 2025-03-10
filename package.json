@@ -1,6 +1,10 @@
 {
   "name": "ultido",
   "workspaces": [
-    "apps/*"
-  ]
+    "apps/*",
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4"
+  }
 }
