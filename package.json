@@ -1,0 +1,6 @@
+{
+  "name": "ultido",
+  "workspaces": [
+    "apps/*"
+  ]
+}
